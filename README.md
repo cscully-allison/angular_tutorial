@@ -1,5 +1,7 @@
 # AngularTourOfHeroes
 
+This is just a personal repository to hold the tutorial for Angular.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
 
 ## Development server
